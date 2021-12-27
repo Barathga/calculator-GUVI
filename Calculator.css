@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(245, 252, 252);
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    border: 2px solid rgb(192, 89, 89);  
+    background-color: rgb(58, 141, 168);
+}
+table{
+    border: black 2px solid;
+    margin-top: 1em;
+    width: fit-content;
+    background-color: rgb(163, 49, 49);
+}
+button{
+    padding-left: 14px;
+    padding-right: 14px;
+    width: fit-content;
+}
+
+input{
+    width: auto;
+}
+
+#equal{
+    padding-left: 3.6em;
+}
+.button5,.button8,.button2{
+
+    padding-left: 23px;
+}
